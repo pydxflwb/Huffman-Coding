@@ -4,8 +4,8 @@ This is part of groupwork of SCS class  Information Theory and Coding
 
 
 本代码实现：
-	| Huffman树及其节点的类定义
 	
+	| Huffman树及其节点的类定义
 	| 压缩和解压方法
 	
 使用方法请阅读HuffmanCoding 文件夹的 readme.txt文件
